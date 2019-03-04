@@ -1,0 +1,2 @@
+# MyCoreProj
+CoreProject
